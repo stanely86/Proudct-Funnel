@@ -25,8 +25,3 @@ A separate Python script reads the CSV and creates a user retention funnel chart
 - Plotly
 - Jupyter Notebook / Colab
 - GitHub
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/stanely86/Proudct-Funnel.git
